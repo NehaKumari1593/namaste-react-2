@@ -1,0 +1,29 @@
+{
+  "name": "react-lecture1",
+  "version": "1.0.0",
+  "description": "lecture 2 include npm in project",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/NehaKumari1593/namaste-react-1#readme",
+  "bugs": {
+    "url": "https://github.com/NehaKumari1593/namaste-react-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NehaKumari1593/namaste-react-1.git"
+  },
+  "license": "ISC",
+  "author": "neha kumari",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist":["last 2 chrome version"]
+}

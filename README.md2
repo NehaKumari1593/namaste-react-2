@@ -1,0 +1,16 @@
+# namaste-react-1
+lecture1
+# parcel
+dev build
+local server
+HMR=hot module replacement
+caching faster builds 
+image optimization
+minfication
+bundling
+compressing 
+consistent hashing
+code splitting
+differential bundling-support which browser(old as well)
+daignostic-error display
+error splitting
